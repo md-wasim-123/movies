@@ -1,0 +1,10 @@
+.genres{
+    display: flex;
+    .genre{
+        background-color: rgb(197, 0, 98);
+        margin: 2px;
+        padding: 3px 5px;
+        border-radius: 4px;
+        color: rgb(0, 0, 0);
+    }
+}

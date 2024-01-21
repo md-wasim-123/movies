@@ -1,0 +1,17 @@
+.carousel{
+    position: relative;
+    width: 100%;
+    padding:10px;
+    & > .contentWrapper{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 2rem;
+       .text-tre{
+        color: white;
+        font-size: 1.5rem;
+        font-weight: 500;
+       }
+        
+    }
+}
